@@ -2,8 +2,8 @@
 	"name": "",
 	"icons": [
 		{
-			"src": "\/android-chrome-192x192.png",
-			"sizes": "192x192",
+			"src": "\/android-chrome-120x120.png",
+			"sizes": "120x120",
 			"type": "image\/png"
 		},
 		{
@@ -12,6 +12,6 @@
 			"type": "image\/png"
 		}
 	],
-	"theme_color": "#ffffff",
+	"theme_color": "#13598f",
 	"display": "standalone"
 }

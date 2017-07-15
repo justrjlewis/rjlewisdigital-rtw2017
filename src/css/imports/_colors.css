@@ -32,9 +32,30 @@
   color: var(--grey-4);
 }
 
+.blue-grey {
+  color: var(--blue-grey);
+}
+
+.blue {
+  color: var(--blue);
+}
+
+.navy {
+  color: var(--navy);
+}
+
 .black {
   color: var(--black);
 }
+
+.green {
+  color: var(--green);
+}
+
+.orange {
+  color: var(--orange);
+}
+
 
 .bg-primary {
   background-color: var(--primary);
@@ -70,6 +91,9 @@
 
 .bg-black {
   background-color: var(--black);
+}
+.bg-blue-grey {
+  background-color: var(--blue-grey);
 }
 
 .bg-fix-primary {

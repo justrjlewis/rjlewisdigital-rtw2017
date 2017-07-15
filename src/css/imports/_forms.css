@@ -1,4 +1,4 @@
-fieldset
+/*fieldset
 {
   position: relative;
 }
@@ -35,19 +35,19 @@ input, textarea {
 
 ::-webkit-input-placeholder {
    color: var(--black);
-   font-size: var(--spacing-medium);
+   font-size: var(--spacing-small);
    line-height: normal;
 }
 
 :-moz-placeholder {
    color: var(--black);
-   font-size: var(--spacing-medium);
+   font-size: var(--spacing-small);
    line-height: normal;
 }
 
 ::-moz-placeholder {
    color: var(--black);
-   font-size: var(--spacing-medium);
+   font-size: var(--spacing-small);
    line-height: normal;
 }
 
@@ -73,4 +73,35 @@ label
   line-height: 1;
   transition: var(--hover-transition);
   z-index: 2;
+}*/
+.c-editor p {
+  line-height: 1.3 !important;
 }
+.c-editor ol, .c-editor ul {
+  list-style-position: inside; 
+}
+.c-editor ol {
+  list-style-type: decimal;
+  padding-left: .65rem;
+  text-indent: -.65rem;
+}
+.c-editor h3 {
+  font-weight: 500 !important; 
+}
+.c-editor h4 {
+  font-weight: 600 !important;
+}
+.c-editor h2, .c-editor h3, .c-editor h4 {
+  margin-bottom: .5rem !important;
+  margin-top: .8rem !important;
+}
+.c-forms-form-title h2, .c-editor h2 {
+  font-size: 1.9rem !important;
+}
+.c-editor h3 {
+  font-size: 1.5rem !important;
+}
+.c-editor h4 {
+  font-size: 1rem !important;
+}
+

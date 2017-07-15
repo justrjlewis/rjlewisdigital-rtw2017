@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
+title: My Work
 type: products
-page: /products.html
+page: /work.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
