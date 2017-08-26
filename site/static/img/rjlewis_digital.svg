@@ -3,29 +3,19 @@
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>rjlewis_digital</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <text id="text-1" font-family="Lato-Light, Lato" font-size="430.081967" font-weight="300">
-            <tspan x="1303" y="424">digital</tspan>
-        </text>
-        <filter x="-0.5%" y="-1.0%" width="101.8%" height="102.3%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="10" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0.0795418718   0 0 0 0 0.348761271   0 0 0 0 0.562553146  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="rjlewis_digital">
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="430.081967">
+        <g id="rjlewis_digital" fill="#B52575">
             <g id="Group" transform="translate(-30.000000, -106.000000)">
-                <text id="rj" stroke="#B52575" stroke-width="0.25" fill="#2187D8" font-family="Lato-Regular, Lato" font-size="430.081967" font-weight="normal">
+                <text id="rj" font-family="Lato-Regular, Lato" font-weight="normal">
                     <tspan x="0" y="424">rj</tspan>
                 </text>
-                <text id="lewis" stroke="#B52575" stroke-width="0.25" fill="#2187D8" font-family="Lato-Regular, Lato" font-size="430.081967" font-weight="normal">
+                <text id="lewis" font-family="Lato-Regular, Lato" font-weight="normal">
                     <tspan x="304" y="424">lewis</tspan>
                 </text>
-                <g id="digital">
-                    <use stroke="#FF4400" fill="#2187D8" fill-opacity="1" stroke-width="0.1" stroke-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
-                    <use fill="#2187D8" fill-rule="evenodd" xlink:href="#text-1"></use>
-                    <use stroke="#FF4400" stroke-width="0.1" xlink:href="#text-1"></use>
-                </g>
+                <text id="digital" font-family="Lato-Light, Lato" font-weight="300">
+                    <tspan x="1303" y="424">digital</tspan>
+                </text>
             </g>
         </g>
     </g>
