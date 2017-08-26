@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1232px" height="398px" viewBox="0 0 1232 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1219px" height="398px" viewBox="0 0 1219 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>rjlewis</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <text id="text-1" font-family="Lato-Regular, Lato" font-size="430.081967" font-weight="normal">
-            <tspan x="0" y="424">rj</tspan>
-        </text>
-        <filter x="-2.7%" y="-1.5%" width="110.6%" height="103.3%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="15" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0.0795418718   0 0 0 0 0.348761271   0 0 0 0 0.562553146  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-        <text id="text-3" font-family="Lato-Regular, Lato" font-size="430.081967" font-weight="normal">
-            <tspan x="304" y="424">lewis</tspan>
-        </text>
-        <filter x="-0.8%" y="-1.5%" width="103.1%" height="103.3%" filterUnits="objectBoundingBox" id="filter-4">
-            <feOffset dx="15" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feColorMatrix values="0 0 0 0 0.0795418718   0 0 0 0 0.348761271   0 0 0 0 0.562553146  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="rjlewis" fill="#2187D8">
-            <g id="Group" transform="translate(-31.000000, -107.000000)">
-                <g id="rj">
-                    <use fill-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
-                    <use fill-rule="evenodd" xlink:href="#text-1"></use>
-                    <use fill-opacity="1" xlink:href="#text-1"></use>
-                </g>
-                <g id="lewis">
-                    <use fill-opacity="1" filter="url(#filter-4)" xlink:href="#text-3"></use>
-                    <use fill-rule="evenodd" xlink:href="#text-3"></use>
-                    <use fill-opacity="1" xlink:href="#text-3"></use>
-                </g>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal" font-family="Lato-Regular, Lato" font-size="430.081967">
+        <g id="rjlewis" stroke="#B52575" stroke-width="0.25" fill="#2187D8">
+            <g id="Group" transform="translate(-30.000000, -106.000000)">
+                <text id="rj">
+                    <tspan x="0" y="424">rj</tspan>
+                </text>
+                <text id="lewis">
+                    <tspan x="304" y="424">lewis</tspan>
+                </text>
             </g>
         </g>
     </g>
