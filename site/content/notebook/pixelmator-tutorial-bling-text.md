@@ -1,6 +1,7 @@
 ---
 title: 'Pixelmator Tutorial: Bling Text'
-date: 01/12/2014 9:13 PM
+category: 'tutorial'
+date: 2014-01-12T15:09:13.000Z
 description: >-
   I recently had a client that wanted a Sex and the City-esque logo.  I fired up
   Pixelmator and set out to make some swarovski goodness happen on screen!
