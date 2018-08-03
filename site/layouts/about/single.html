@@ -5,12 +5,12 @@
 <div class="mw7 center ph3 pt4">
 
     {{ partial "media-block-reverse" (dict "heading" .Params.heading "text" .Description "imageUrl" "/img/about/family-sketch@484w.png") }}
- <!--  {{ range .section }}
+ {{ <!--  {{ range .section }}
     
   {{ end }}
   <h4 class="f2 f1-l lh-title mb5 mw6 green">
     {{.section}}
-  </h4> -->
+  </h4> --> | safeHtml }}
   
   {{ partial "media-block" (dict "heading" "If it aint broke, don't break it." "text" "Not every business needs a multi-million dollar marketing team, but every business should be engaging their customers in the digital space. I specialize in helping small business professionals craft digital content strategies without breaking the bank." "imageUrl" "/img/about/aint-broken.jpg") | markdownify }}
 
