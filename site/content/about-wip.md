@@ -3,7 +3,7 @@ title: About RJ Lewis
 type: about
 page: /about.html
 image: /img/about/jumbotron3.jpg
-img-title: I'm just RJ
+imgtitle: I'm just RJ
 heading: Trying to get a sense of me?
 description: >-
   If you get the impression that my laptop is actually my conjoined twin, my kids would say that you aren't far off the mark. I graduated Summa Cum Laude with a Bachelor of Science in Multi-Media Communications. I have almost 10 years of expereince as a self-employed, multimedia consultant. When I'm not working, I spend my time taking care of my soldier hubby, the 3 kiddos and Lani the Wonder Mut.
