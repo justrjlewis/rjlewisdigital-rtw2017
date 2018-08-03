@@ -1,10 +1,10 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/about/jumbotron3.jpg" "title" "I'm just RJ") }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.img-title) }}
 
 <div class="mw7 center ph3 pt4">
 
-    {{ partial "media-block-reverse" (dict "heading" "Trying to get a sense of me?" "text" "If you get the impression that my laptop is actually my conjoined twin, my kids would say that you aren't far off the mark. I graduated Summa Cum Laude with a Bachelor of Science in Multi-Media Communications. I have almost 10 years of expereince as a self-employed, multimedia consultant. When I'm not working, I spend my time taking care of my soldier hubby, the 3 kiddos and Lani the Wonder Mut." "imageUrl" "/img/about/family-sketch@484w.png") }}
+    {{ partial "media-block-reverse" (dict "heading" .Params.heading "text" .description "imageUrl" "/img/about/family-sketch@484w.png") }}
   
   <h4 class="f2 f1-l lh-title mb5 mw6 green">
     My approach
