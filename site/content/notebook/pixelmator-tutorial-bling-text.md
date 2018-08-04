@@ -9,13 +9,13 @@ image: /img/screen_shot2.jpg
 ---
 I got a head start on this project by checking out this Japanese language tutorial on [WP Extreme](http://translate.google.com.au/translate?hl=en&sl=ja&tl=en&u=http%3A%2F%2Fwpxtreme.jp%2Fsex-and-the-city-2-bling-diamond-text-effect-in-photoshop "Bling Text Tutorial").
 
-* I start by creating base text, making a duplicate, converting the duplicate to pixels and hiding both layers. I personally do this, because I find that a gagillion years down the line, I won't remember exactly what font and font settings I used and I may want to know.
+* I started by creating base text, making a duplicate, converting the duplicate to pixels and hiding both layers. <small>I personally do this, because I find that a gagillion years down the line, I won't remember exactly what font and font settings I used and I may want to know.</small>
 
   * To duplicate a layer you can either right click on it, or you can hold down the option key and drag the layer in the palette, or on the canvas.
 
-* My next step is to duplicate that base layer, NOT the text layer - the first layer that I turned into pixels. 
+* My next step is to duplicate that base layer, **NOT** the text layer - the first layer that I turned into pixels. 
 
-  * Think about out the layers that you're going to add to the project.  
+  * Think out the layers that you're going to add to the project.
 
   * For me, these were: glow, shadow, outline, bevel, diamonds, texture and sparkles (names don't matter as long as you know what's going on).  
 
@@ -169,4 +169,5 @@ To make the first layer of sparkles:
 ![Screen_Shot_2014-01-13_at_1.25.05_AM.png](http://old.justrjlewis.com/files/2913/8963/6086/Screen_Shot_2014-01-13_at_1.25.05_AM.png)
 
 Repeat Steps one and two for your second layer of sparkles.  Command click on your text layer.  Select Edit > Refine Selection and Adjust the size to about 40px and add a mask to the layer.
+
 
