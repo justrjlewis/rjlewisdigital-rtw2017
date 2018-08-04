@@ -1,6 +1,6 @@
 +++
 title = "Project Terms of Service Agreement"
-type = "contract"
+type = "contracts"
 page="/service-agreement.html"
 +++
 

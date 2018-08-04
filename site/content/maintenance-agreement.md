@@ -1,6 +1,6 @@
 +++
 title = "Maintenance Agreement"
-type = "contract"
+type = "contracts"
 page="/maintenance-agreement.html"
 +++
 
