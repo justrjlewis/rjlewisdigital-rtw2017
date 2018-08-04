@@ -1,13 +1,13 @@
 ---
+category: tutorial
 title: 'Pixelmator Tutorial: Bling Text'
-category: 'tutorial'
 date: 2014-01-12T15:09:13.000Z
 description: >-
   I recently had a client that wanted a Sex and the City-esque logo.  I fired up
   Pixelmator and set out to make some swarovski goodness happen on screen!
 image: /img/screen_shot2.jpg
 ---
-I got a head start on this project by checking out this Japanese language tutorial on[WP Extreme](http://translate.google.com.au/translate?hl=en&sl=ja&tl=en&u=http%3A%2F%2Fwpxtreme.jp%2Fsex-and-the-city-2-bling-diamond-text-effect-in-photoshop "Bling Text Tutorial").
+I got a head start on this project by checking out this Japanese language tutorial on [WP Extreme](http://translate.google.com.au/translate?hl=en&sl=ja&tl=en&u=http%3A%2F%2Fwpxtreme.jp%2Fsex-and-the-city-2-bling-diamond-text-effect-in-photoshop "Bling Text Tutorial").
 
 * I start by creating base text, making a duplicate, converting the duplicate to pixels and hiding both layers. I personally do this, because I find that a gagillion years down the line, I won't remember exactly what font and font settings I used and I may want to know.
 
@@ -169,3 +169,4 @@ To make the first layer of sparkles:
 ![Screen_Shot_2014-01-13_at_1.25.05_AM.png](http://old.justrjlewis.com/files/2913/8963/6086/Screen_Shot_2014-01-13_at_1.25.05_AM.png)
 
 Repeat Steps one and two for your second layer of sparkles.  Command click on your text layer.  Select Edit > Refine Selection and Adjust the size to about 40px and add a mask to the layer.
+
