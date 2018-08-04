@@ -52,9 +52,7 @@ I put the shadow layer on top of the glow layer because the white over it tends 
 
   * **Size 2px (feather and smooth should be 0).**
 
-* Edit > Fill (opt\+cmd\+F) the layer with your outline color.
-
-  * I used white.
+* Edit > Fill (opt\+cmd\+F) the layer with your outline color. *I used white.*
 
 ![Screen_Shot_2014-01-13_at_12.18.40_AM.png](http://old.justrjlewis.com/files/9313/8964/9030/Screen_Shot_2014-01-13_at_12.18.40_AM.png)     ![Screen_Shot_2014-01-13_at_3.10.56_PM.png](http://old.justrjlewis.com/files/6813/8964/9096/Screen_Shot_2014-01-13_at_3.10.56_PM.png)
 
@@ -169,5 +167,6 @@ To make the first layer of sparkles:
 ![Screen_Shot_2014-01-13_at_1.25.05_AM.png](http://old.justrjlewis.com/files/2913/8963/6086/Screen_Shot_2014-01-13_at_1.25.05_AM.png)
 
 Repeat Steps one and two for your second layer of sparkles.  Command click on your text layer.  Select Edit > Refine Selection and Adjust the size to about 40px and add a mask to the layer.
+
 
 
