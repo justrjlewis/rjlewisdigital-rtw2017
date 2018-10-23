@@ -3,8 +3,8 @@ title: HR Girlfriends Member Management Integrations
 date: '2018-10-23T11:54:20-04:00'
 description: >-
   In the latest iteration of the HR Girlfriends website, I was hired to work
-  with the Karen Eckstrom, a good friend and the designer at [JackPine
-  Design](https://jackpinedesign.com/) to develop tighter integration between
+  with the Karen Eckstrom, a good friend and the designer at (JackPine
+  Design)[https://jackpinedesign.com/] to develop tighter integration between
   the website and the membership management software to offer a more seamless
   user experience.
 image: /img/screen-shot-2018-10-23-at-11.59.25.png
